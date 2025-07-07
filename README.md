@@ -61,10 +61,10 @@
             <a href="https://github.com/hyezuu"><img  width="100px" src="https://avatars.githubusercontent.com/u/147456219?v=4" /></a>
         </td>
         <td align="center">
-            <a href="https://github.com/letsgilit"><img  width="100px" src="https://avatars.githubusercontent.com/u/147456219?v=4" /></a>
+            <a href="https://github.com/letsgilit"><img  width="100px" src="https://avatars.githubusercontent.com/u/106720000?v=4" /></a>
         </td>
         <td align="center">
-            <a href="https://github.com/je-pa"><img  width="100px" src="https://avatars.githubusercontent.com/u/76720692?v=4" /></a>
+            <a href="https://github.com/je-pa"><img width="100px" src="https://avatars.githubusercontent.com/u/76720692?v=4" /></a>
         </td>
         <td align="center">
             <a href="https://github.com/cchoijjinyoung"><img  width="100px" src="https://avatars.githubusercontent.com/u/68311264?v=4" /></a>
