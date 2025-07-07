@@ -18,7 +18,7 @@
 
 ## 📜 진행방식
 - [책 링크](https://product.kyobobook.co.kr/detail/S000001810495)
-  - [참고: 부록 링크](#)
+  - [참고: 부록 링크](https://github.com/madvirus/ddd-start2)
 - 일정 : 2025. 07. 07(수) ~
   - 매주 월/목(첫 주만 수/토 로 진행합니다.) 오후 2시, 총 8주(16회)
 - 인원: 6명
