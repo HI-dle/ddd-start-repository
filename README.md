@@ -4,8 +4,8 @@
 ## 발표 자료
 | 진행일자     | 챕터                     | 이슈 링크   |
 |----------|------------------------|:--------|
-| 25/07/07 | [Ch.01](#)_도메인 모델 시작하기 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/2) |
-|  | [Ch.02](#)_아키텍처 개요 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/3) |
+| 25/07/10,14 | [Ch.01](#)_도메인 모델 시작하기 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/2) |
+| 25/14, | [Ch.02](#)_아키텍처 개요 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/3) |
 |  | [Ch.03](#)_애그리거트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/4) |
 |  | [Ch.04](#)_리포지터리와 모델 구현(JPA 중심) | [링크](https://github.com/HI-dle/ddd-start-repository/issues/5) |
 |  | [Ch.05](#)_스프링 데이터 JPA를 이용한 조회 기능 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/6) |
