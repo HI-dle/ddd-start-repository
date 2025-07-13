@@ -2,19 +2,19 @@
 `도메인 주도 개발 시작하기` 책 스터디를 위한 레포지토리입니다.
 
 ## 발표 자료
-| 진행일자     | 챕터                     | 이슈 링크   |
-|----------|------------------------|:--------|
+| 진행일자       | 챕터                     | 이슈 링크   |
+|------------|------------------------|:--------|
 | 25/07/10,14 | [Ch.01](#)_도메인 모델 시작하기 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/2) |
-| 25/14, | [Ch.02](#)_아키텍처 개요 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/3) |
-|  | [Ch.03](#)_애그리거트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/4) |
-|  | [Ch.04](#)_리포지터리와 모델 구현(JPA 중심) | [링크](https://github.com/HI-dle/ddd-start-repository/issues/5) |
-|  | [Ch.05](#)_스프링 데이터 JPA를 이용한 조회 기능 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/6) |
-|  | [Ch.06](#)_응용 서비스와 표현 영역 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/7) |
-|  | [Ch.07](#)_도메인 서비스 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/8) |
-|  | [Ch.08](#)_애그리거트 트랜잭션 관리 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/9) |
-|  | [Ch.09](#)_도메인 모델과 바운디드 컨텍스트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/10) |
-|  | [Ch.10](#)_이벤트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/11) |
-|  | [Ch.11](#)_CQRS | [링크](https://github.com/HI-dle/ddd-start-repository/issues/12) |
+| 25/07/14   | [Ch.02](#)_아키텍처 개요 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/3) |
+|            | [Ch.03](#)_애그리거트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/4) |
+|            | [Ch.04](#)_리포지터리와 모델 구현(JPA 중심) | [링크](https://github.com/HI-dle/ddd-start-repository/issues/5) |
+|            | [Ch.05](#)_스프링 데이터 JPA를 이용한 조회 기능 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/6) |
+|            | [Ch.06](#)_응용 서비스와 표현 영역 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/7) |
+|            | [Ch.07](#)_도메인 서비스 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/8) |
+|            | [Ch.08](#)_애그리거트 트랜잭션 관리 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/9) |
+|            | [Ch.09](#)_도메인 모델과 바운디드 컨텍스트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/10) |
+|            | [Ch.10](#)_이벤트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/11) |
+|            | [Ch.11](#)_CQRS | [링크](https://github.com/HI-dle/ddd-start-repository/issues/12) |
 
 ## 📜 진행방식
 - [책 링크](https://product.kyobobook.co.kr/detail/S000001810495)
