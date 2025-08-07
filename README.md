@@ -8,8 +8,8 @@
 | 25/07/14   | [Ch.02](#)_아키텍처 개요 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/3) |
 |            | [Ch.03](#)_애그리거트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/4) |
 |            | [Ch.04](#)_리포지터리와 모델 구현(JPA 중심) | [링크](https://github.com/HI-dle/ddd-start-repository/issues/5) |
-|            | [Ch.05](#)_스프링 데이터 JPA를 이용한 조회 기능 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/6) |
-|            | [Ch.06](#)_응용 서비스와 표현 영역 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/7) |
+| 25/07/31   | [Ch.05](#)_스프링 데이터 JPA를 이용한 조회 기능 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/6) |
+| 25/08/07   | [Ch.06](#)_응용 서비스와 표현 영역 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/7) |
 |            | [Ch.07](#)_도메인 서비스 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/8) |
 |            | [Ch.08](#)_애그리거트 트랜잭션 관리 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/9) |
 |            | [Ch.09](#)_도메인 모델과 바운디드 컨텍스트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/10) |
