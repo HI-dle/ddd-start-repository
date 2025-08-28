@@ -13,7 +13,7 @@
 |            | [Ch.07](#)_도메인 서비스 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/8) |
 | 25/08/17   | [Ch.08](#)_애그리거트 트랜잭션 관리 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/9) |
 | 25/08/21   | [Ch.09](#)_도메인 모델과 바운디드 컨텍스트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/10) |
-| 25/08/     | [Ch.10](#)_이벤트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/11) |
+| 25/08/28,  | [Ch.10](#)_이벤트 | [링크](https://github.com/HI-dle/ddd-start-repository/issues/11) |
 |            | [Ch.11](#)_CQRS | [링크](https://github.com/HI-dle/ddd-start-repository/issues/12) |
 
 ## 📜 진행방식
